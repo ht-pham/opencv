@@ -1,0 +1,5 @@
+steps:
+  - name: 'gcr.io/perfect-trilogy-364621/opencv'
+    args: ["make","/opencv/build","-j","8"]
+
+
